@@ -13,4 +13,4 @@ ROOT elemanı 7 dir. Buna göre;
        0  3 4      
         \
          2   
-         ```
+```
