@@ -15,7 +15,7 @@ Her aşamada en küçük eleman başa gelecek ve yer değiştirecek son dizide s
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
-18 sayısı ortada yer aldığı için average case kapsamına girer.
+>18 sayısı ortada yer aldığı için average case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
